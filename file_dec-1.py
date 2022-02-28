@@ -421,7 +421,7 @@ header = {
     'x-fb-connection-type': 'unknown',
     'content-type': 'application/x-www-form-urlencoded',
     'x-fb-http-engine': 'Liger' }
-logo = "\n ______   _    _   ______   ______   ______    \n| |  | | | |  | | / |      | |  | | | |  \\ \\   \n| |__| | | |--| | '------. | |__| | | |  | |   \n|_|  |_| |_|  |_|  ____|_/ |_|  |_| |_|  |_|   \n\n\x1b[1;97m-----------------------------------------------\n\x1b[0;32m\xe2\x9e\xa3 PROGRAMER   : Zahid KING \n\x1b[0;32m\xe2\x9e\xa3 FACEBOOK    : ZAHID KING \n\x1b[0;32m\xe2\x9e\xa3 WHATSAPP    : 03079709624 \n\x1b[1;97m-----------------------------------------------\n                                                 "
+logo = "\z ______   _    _   ______   ______   ______    \z| |  | | | |  | | / |      | |  | | | |  \\ \\   \z| |__| | | |--| | '------. | |__| | | |  | |   \z|_|  |_| |_|  |_|  ____|_/ |_|  |_| |_|  |_|   \z\z\x1b[1;97m-----------------------------------------------\z\x1b[0;32m\xe2\x9e\xa3 PROGRAMER   : Zahid KING \n\x1b[0;32m\xe2\x9e\xa3 FACEBOOK    : ZAHID KING \n\x1b[0;32m\xe2\x9e\xa3 WHATSAPP    : 03079709624 \n\x1b[1;97m-----------------------------------------------\n                                                 "
 print '======================================'
 os.system('clear')
 print logo
